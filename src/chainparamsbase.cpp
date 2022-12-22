@@ -35,7 +35,7 @@ public:
     CBaseMainParams()
     {
         // nRPCPort = 45678;
-        nRPCPort = 45678;
+        nRPCPort = 55667;
     }
 };
 
